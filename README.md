@@ -1,16 +1,13 @@
-# untitled
+Switch theme in Flutter app using switcher
 
-A new Flutter project.
 
-## Getting Started
+Light Theme: Screenshot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Shot - iPhone 11 - 2021-07-25 at 21 58 47](https://user-images.githubusercontent.com/83762436/126906626-db25a131-9868-4b9b-a471-4fae1b215f0c.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dartk Theme: Screenshot
+
+
+![Simulator Screen Shot - iPhone 11 - 2021-07-25 at 21 58 51](https://user-images.githubusercontent.com/83762436/126906640-e8dd7612-23ff-4ab0-8ff1-fee329355daa.png)
